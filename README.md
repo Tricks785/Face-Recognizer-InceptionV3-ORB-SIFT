@@ -1,0 +1,1 @@
+To utilize the program, you ought to have a dataset consisting of many people's faces for the training data. For the entire program to work, you have to install streamlit, tensorflow, and various other python libraries. This is a novel attempt with the hope that it can improve overall face detection accuracy.
